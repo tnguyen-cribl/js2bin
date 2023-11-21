@@ -1,3 +1,4 @@
+
 # js2bin
 NodeJS application to native executable
 
